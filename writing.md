@@ -2,12 +2,13 @@
 ## Steps in the process
 
 1. Write paper/article
-#. Make tables, graphs & figures
-2. Rewrite
-2. Submit
-#. Wait
-3a. Get accepted -> 4
-3b. Get rejected -> 5
-4. Celebrate, have a beer & a break
-5. Revise & resubmit
-#. Wait some mote
+2. Make tables, graphs & figures
+3. Submit
+4. Wait
+5a. Get accepted -> 6
+5b. Get rejected -> 7
+6. Celebrate, have a beer & a break
+7. Weep, revise & resubmit
+8. Wait some more
+9. Get accepted and celbrate
+10. Reflection - What went wrong and how to improve?
